@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main() {
+    printf("a");
+    printf("b");
+    if (!67)
+        printf("67");
+    else if (--1)
+        printf("d");
+    printf("e");
+    printf("f");
+    return 0;
+}
