@@ -15,8 +15,11 @@ int main ()
        break;
        case 5 :printf("thursday");
        break;
-       case 6 :printf("saturday");
+       case 6 :printf("friday");
        break;
+       case 7 : printf("saturday");
+       break;
+      
    }
 
     return 0;
